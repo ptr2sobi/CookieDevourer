@@ -1,4 +1,4 @@
- - Steps for the setup:
+*Steps for the setup:*
 
 1) clone the repo
 2) go to Google chrome
